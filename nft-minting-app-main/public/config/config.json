@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDA31e0C983D20060E5Df31061d5F8fE6f5Ea1B5B",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xda31e0c983d20060e5df31061d5f8fe6f5ea1b5b",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RinkebyETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Presa Negra 1",
+  "SYMBOL": "PSNG1",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false
+}
